@@ -6,7 +6,9 @@ Este pequeno desafio do modulo de Docker do curso Full Cycle.
 
 ## Sobre a imagem
 
-Imagem docker disponivel no <a href="https://hub.docker.com/repository/docker/andrademaicon/fullcyclerocks">Docker hub</a>.
+![image](https://user-images.githubusercontent.com/19509115/181994656-515365df-13bf-4198-9dad-4237bc81d67b.png)
+
+Imagem docker disponivel no <a href="https://hub.docker.com/r/andrademaicon/fullcyclerocks">Docker hub</a>.
 
 Para executar rode:
 
